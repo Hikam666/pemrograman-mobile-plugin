@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # plugin
 
 A new Flutter project.
@@ -15,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# pemrograman-mobile-plugin
+
+main.dart (camera)
+main1.dart (maps)
+>>>>>>> b66a6ad5887d0bb3f26c297cb40ee590a4c9829e
